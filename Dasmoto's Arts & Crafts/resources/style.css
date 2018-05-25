@@ -1,0 +1,49 @@
+body {
+  font-family: helvetica;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("../resources/tile_pattern.jpeg");
+}
+
+h2 {
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+
+
+#brushes {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+#paint {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+.price {
+  font-family: helvetica;
+  font-weight: bold;
+  color: blue;
+}
